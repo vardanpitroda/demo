@@ -36,6 +36,21 @@ function Navbar() {
                   Contact
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/form">
+                  form
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/table">
+                  table
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/form2">
+                  form2
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
